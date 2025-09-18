@@ -1,0 +1,1 @@
+// invintory slots for products
